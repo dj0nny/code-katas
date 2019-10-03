@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "The solutions of my code katas",
   "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/ --fix"
+  },
   "repository": "https://github.com/dj0nny/code-katas",
   "author": "dj0nny <frank96990@gmail.com>",
   "license": "MIT",
