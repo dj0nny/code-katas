@@ -4,4 +4,4 @@
 
 ## 03-10-2019
 
-* [Sum of Numbers](https://github.com/dj0nny/code-katas/blob/master/src/get-sum.js)
+* [Sum of Numbers - 7 kyu](https://github.com/dj0nny/code-katas/blob/master/src/get-sum.js)
