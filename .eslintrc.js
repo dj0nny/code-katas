@@ -16,5 +16,7 @@ module.exports = {
   rules: {
     "no-console": "off",
     "no-plusplus": "off",
+    "prefer-template": "off",
+    "no-nested-ternary": "off",
   },
 };
