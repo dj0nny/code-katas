@@ -9,3 +9,4 @@
 ## 7 kyu
   * [Sum of Numbers](https://github.com/dj0nny/code-katas/blob/master/src/get-sum.js)
   * [Odder Than the Rest](https://github.com/dj0nny/code-katas/blob/master/src/odder-than-rest.js)
+  * [Sum of odd numbers](https://github.com/dj0nny/code-katas/blob/master/src/odd-numbers-triangle.js)
