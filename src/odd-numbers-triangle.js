@@ -3,4 +3,5 @@ function rowSumOddNumbers(n) {
 }
 
 console.log(rowSumOddNumbers(1), 1);
+console.log(rowSumOddNumbers(3), 27);
 console.log(rowSumOddNumbers(42), 74088);
