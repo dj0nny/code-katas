@@ -19,5 +19,8 @@ module.exports = {
     "prefer-template": "off",
     "no-nested-ternary": "off",
     "max-len": "off",
+    "no-extend-native": "off",
+    "func-names": "off",
+    "no-param-reassign": "off"
   },
 };
