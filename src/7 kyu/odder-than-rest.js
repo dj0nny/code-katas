@@ -8,9 +8,15 @@ function oddOne(arr) {
   return oddIndex;
 }
 
+/*
+********
+Or
 function oddOne(arr) {
   return arr.findIndex(x => x % 2 != 0);
 }
+
+******
+*/
 
 console.log(oddOne([33, -76, 78, 10, -12, -44, -58, 54, -86, 78, 24, 92, 56, -72, -34, 82, -52, 54, 28]), 0);
 console.log(oddOne([2, 16, 98, 10, 13, 78]), 4);

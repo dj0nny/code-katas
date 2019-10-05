@@ -18,5 +18,6 @@ module.exports = {
     "no-plusplus": "off",
     "prefer-template": "off",
     "no-nested-ternary": "off",
+    "max-len": "off",
   },
 };
