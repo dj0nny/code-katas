@@ -21,6 +21,8 @@ module.exports = {
     "max-len": "off",
     "no-extend-native": "off",
     "func-names": "off",
-    "no-param-reassign": "off"
+    "no-param-reassign": "off",
+    "consistent-return": "off",
+    "no-else-return": "off",
   },
 };
