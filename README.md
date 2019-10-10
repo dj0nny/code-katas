@@ -1,5 +1,7 @@
 # :space_invader: Code Katas
 
+![GitHub top language](https://img.shields.io/github/languages/top/dj0nny/code-katas)
+
 > The solutions of my code katas
 
 ## 8 kyu
