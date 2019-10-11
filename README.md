@@ -13,6 +13,7 @@
   * [Odder Than the Rest](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/odder-than-rest.js)
   * [Sum of odd numbers](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/get-sum.js)
   * [White or Black?](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/black-white.js)
+  * [Currying functions: multiply all elements in an array](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/multiply-all-currying.js)
 
 ## 6 kyu
   * [Array Helpers](https://github.com/dj0nny/code-katas/blob/master/src/6%20kyu/array-helpers.js)
