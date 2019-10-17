@@ -9,6 +9,7 @@
  * [Even or Odd](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/even-odd.js)
  * [Be Concise I - The Ternary Operator](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/be-concise.js)
  * [Century From Year](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/century-from-year.js)
+ * [My head is at the wrong end!](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/my-head-is-at-the-wrong-end.js)
 
 ## 7 kyu
   * [Sum of Numbers](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/get-sum.js)
