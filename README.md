@@ -17,6 +17,7 @@
   * [Sum of odd numbers](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/get-sum.js)
   * [White or Black?](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/black-white.js)
   * [Currying functions: multiply all elements in an array](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/multiply-all-currying.js)
+  * [V A P O R C O D E](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/v-a-p-o-r-c-o-d-e.js)
 
 ## 6 kyu
   * [Array Helpers](https://github.com/dj0nny/code-katas/blob/master/src/6%20kyu/array-helpers.js)
