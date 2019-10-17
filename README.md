@@ -21,3 +21,4 @@
 
 ## 6 kyu
   * [Array Helpers](https://github.com/dj0nny/code-katas/blob/master/src/6%20kyu/array-helpers.js)
+  * [Tic-Tac-Toe-like table Generator](https://github.com/dj0nny/code-katas/blob/master/src/6%20kyu/tic-tac-toe-like-table-generator.js)
