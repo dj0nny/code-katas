@@ -1,6 +1,7 @@
 # :space_invader: Code Katas
 
 ![GitHub top language](https://img.shields.io/github/languages/top/dj0nny/code-katas)
+![code katas](https://www.codewars.com/users/dj0nny/badges/large)
 
 > The solutions of my code katas
 
