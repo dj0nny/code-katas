@@ -7,3 +7,4 @@
 * [Currying functions: multiply all elements in an array](https://www.codewars.com/kata/586909e4c66d18dd1800009b)
 * [V A P O R C O D E](https://www.codewars.com/kata/5966eeb31b229e44eb00007a)
 * [The First Non Repeated Character In A String](https://www.codewars.com/kata/the-first-non-repeated-character-in-a-string)
+* [Playing with Sets : Sup/Sub](https://www.codewars.com/kata/playing-with-sets-sup-slash-sub) 
