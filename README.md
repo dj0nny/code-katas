@@ -21,7 +21,8 @@
   * [Currying functions: multiply all elements in an array](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/multiply-all-currying.js)
   * [V A P O R C O D E](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/v-a-p-o-r-c-o-d-e.js)
   * [The First Non Repeated Character In A String](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/the-first-non-repeated-character-in-a-string.js)
-  *[Playing with Sets: Sup/Sub](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/playing-with-sets-sup-slash-sub.js)
+  * [Playing with Sets: Sup/Sub](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/playing-with-sets-sup-slash-sub.js)
+  * [Sort array by string length](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/sort-array-by-string-length.js)
 
 ## 6 kyu
   * [Array Helpers](https://github.com/dj0nny/code-katas/blob/master/src/6%20kyu/array-helpers.js)
