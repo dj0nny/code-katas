@@ -9,3 +9,4 @@
 * [The First Non Repeated Character In A String](https://www.codewars.com/kata/the-first-non-repeated-character-in-a-string)
 * [Playing with Sets : Sup/Sub](https://www.codewars.com/kata/playing-with-sets-sup-slash-sub)
 * [Sort array by string length](https://www.codewars.com/kata/sort-array-by-string-length)
+* [Simple Fun #10: Range Bit Counting](https://www.codewars.com/kata/simple-fun-number-10-range-bit-counting)
