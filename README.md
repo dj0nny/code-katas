@@ -13,6 +13,7 @@
  * [Find the first non-consecutive number](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/find-the-first-non-consecutive-number.js)
  * [Remove First and Last Character](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/remove-first-and-last-character.js)
  * [Reversed Strings](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/reversed-strings.js)
+ * [Beginner - Lost Without a Map](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/beginner-lost-without-a-map.js)
 
 ## 7 kyu
   * [Sum of Numbers](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/get-sum.js)
