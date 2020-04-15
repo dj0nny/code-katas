@@ -14,6 +14,11 @@
  * [Remove First and Last Character](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/remove-first-and-last-character.js)
  * [Reversed Strings](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/reversed-strings.js)
  * [Beginner - Lost Without a Map](https://github.com/dj0nny/code-katas/blob/master/src/8%20kyu/beginner-lost-without-a-map.js)
+ * [You Only Need One](https://github.com/dj0nny/code-katas/blob/master/8%20kyu/you-only-need-one.js)
+ * [Sum of positive](https://github.com/dj0nny/code-katas/blob/master/8%20kyu/sum-of-positive.js)
+ * [Sum of positive](https://github.com/dj0nny/code-katas/blob/master/8%20kyu/sum-of-positive.js)
+ * [School paperwork](https://github.com/dj0nny/code-katas/blob/master/8%20kyu/school-paperwork.js)
+ * [Get Planet Name by ID](https://github.com/dj0nny/code-katas/blob/master/8%20kyu/get-planet-name-by-ID.js)
 
 ## 7 kyu
   * [Sum of Numbers](https://github.com/dj0nny/code-katas/blob/master/src/7%20kyu/get-sum.js)
